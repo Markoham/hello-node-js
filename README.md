@@ -1,4 +1,2 @@
-NodeJS-Kurssi
+Lecture 3 Task 5
 =============
-
-NodeJS, Tasks
