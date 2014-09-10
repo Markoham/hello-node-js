@@ -3,6 +3,7 @@
   "main": "task-3.js",
     
   "dependencies" : {
+	"moment": "latest"
       
   }
 }
