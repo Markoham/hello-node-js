@@ -1,9 +1,14 @@
 {
   "name": "Lecture3",
   "main": "task-3.js",
-    
-  "dependencies" : {
-	"moment": "latest"
-      
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "dependencies": {
+    "moment": "^2.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "nodeunit": "^0.9.0"
   }
 }

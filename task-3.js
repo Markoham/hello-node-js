@@ -9,10 +9,4 @@ function formatDate(ts)
   return moment(ts).format("L HH:mm:ss");
 }
 
-file.getFileDate(filename, function(stat)
-{
-    if(!stat)
-        return console.log("File not found!");
-
-    console.log(formatDate(stat));
-});
+console.log(formatDate(file.getFileDate(filename)));
