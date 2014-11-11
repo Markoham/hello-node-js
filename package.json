@@ -1,9 +1,12 @@
 {
   "name": "Lecture3",
   "main": "task-3.js",
-    
-  "dependencies" : {
-	"moment": "latest"
-      
+  "dependencies": {
+    "moment": "latest",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^1.9.0"
   }
 }
