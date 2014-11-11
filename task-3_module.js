@@ -9,4 +9,4 @@ module.exports.getFileDate = function(file, callback)
         
         callback(stats.mtime);
     });
-}
+};
