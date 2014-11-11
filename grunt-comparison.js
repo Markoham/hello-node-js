@@ -1,3 +1,7 @@
+/*
+run: grunt --gruntfile grunt-comparison.js
+or npm test
+*/
 module.exports = function(grunt) {
  
     grunt.initConfig({
