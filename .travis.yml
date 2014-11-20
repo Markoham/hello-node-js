@@ -1,3 +1,4 @@
+language: node
 branches:
   only:
     - Lecture-8-Task-1

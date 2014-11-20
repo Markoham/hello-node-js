@@ -16,6 +16,7 @@ Lecture 4
 
 Lecture 5
 ---------
+- [Task](https://github.com/Markoham/Lecture-5-WebServer)
 
 Lecture 6
 ---------
@@ -24,9 +25,11 @@ Lecture 6
 Lecture 7
 ---------
 - [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-7-Task-1)
+- [Task 2](https://github.com/Markoham/hello-node-js/tree/Lecture-7-Task-2)
 
 Lecture 8
 ---------
+- [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-8-Task-1)
 
 Lecture 9
 ---------
