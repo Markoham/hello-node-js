@@ -1,7 +1,8 @@
 var nodeunit = require('gulp-nodeunit');
+var jshint = require('gulp-jshint');
 var gulp = require('gulp');
 
-gulp.task('default', ['unit']);
+gulp.task('default', ['unit', 'lint']);
 
 gulp.task('unit', function()
 {
@@ -12,4 +13,11 @@ gulp.task('unit', function()
                 output: 'test'
             }
         }));
+});
+
+gulp.task('lint', function()
+{
+    return gulp.src('./*.js')
+    .pipe(jshint())
+    .pipe(jshint.reporter('default'));
 });
