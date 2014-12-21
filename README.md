@@ -37,6 +37,7 @@ Lecture 9
 
 Lecture 10
 ---------
+**Code covarage**
 - [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-10-Task-1)
 - [Task 2](https://github.com/Markoham/hello-node-js/tree/Lecture-10-Task-2)
 
