@@ -33,7 +33,7 @@ Lecture 8
 
 Lecture 9
 ---------
+- [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-9-Task-1)
 
-Lecture 10
----------
-- [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-10-Task-1)
+Lecture 11
+- [Task 1](https://github.com/Markoham/hello-node-js/tree/Lecture-11-Task-1)
